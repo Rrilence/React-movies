@@ -5,7 +5,7 @@ The Components folder contains the components of the Main part.
 
 The markup is implemented using the front-end framework Materialize (https://materializecss.com).
 
-Components of seacrh such as the serach bar. radio button and button submit are implemented in the Search file. 
+Components of seacrh such as the serach barб radio button and button submit are implemented in the Search file. 
 The render of one movie card there is in the Movie file.
 The render of array movie cards there are in the Movies file.
 The FETCH API network request is implemented in the Main file.
