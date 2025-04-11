@@ -6,7 +6,7 @@ This is my first project has written using React components. Implemented a movie
 
 ## About the project.
 - The markup is implemented using the front-end framework Materialize (https://materializecss.com).
-- The markup is drawn dynamically using React componentsю
+- The markup is drawn dynamically using React components.
 - The movie data for this project is obtained from an open database www.omdbapi.com. Requesting data using FETCH API.
 
 ## Adaptive design
